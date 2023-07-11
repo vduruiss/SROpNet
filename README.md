@@ -21,7 +21,7 @@ This repository provides animated versions of the results presented in our paper
 
 *  [**1D Diffusion with Parametric Forcing**](#1d-diffusion-with-parametric-forcing)
 
-*  [**Forced 1D Diffusion with Varied Initial Conditions**](#forced-1d-diffusion-with-varied-initial-conditions)
+*  [**1D Diffusion with Forcing and Varied Initial Conditions**](#1d-diffusion-with-forcing-and-varied-initial-conditions)
 
 *  [**1D Diffusion with Parametric Forcing and Varied Sensor and Prediction Locations**](#1d-diffusion-with-parametric-forcing-and-varied-sensor-and-prediction-locations)
   
@@ -57,7 +57,7 @@ Here, every data sample corresponds to a solution to the 2D Diffusion equation w
 <hr>
 <hr>
 
-## Forced 1D Diffusion with Varied Initial Conditions
+## 1D Diffusion with Forcing and Varied Initial Conditions
 
 Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
 
