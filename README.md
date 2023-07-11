@@ -30,6 +30,9 @@ This repository provides animated versions of the results presented in our paper
 
 <br />
 
+<br />
+
+<hr>
 <hr>
 
 ## 2D Diffusion with Fixed Diffusion Constant
@@ -55,7 +58,9 @@ https://github.com/vduruiss/SROpNet/assets/81578633/d1d90e51-25b3-4dba-81fb-07da
 
 
 <br />
+<br />
 
+<hr>
 <hr>
 
 
@@ -81,6 +86,9 @@ https://github.com/vduruiss/SROpNet/assets/81578633/6f2acf0c-9ec5-4386-a30a-1728
 https://github.com/vduruiss/SROpNet/assets/81578633/4c5992f7-825e-4d84-a07a-9554c3ca8ee3
 
 <br />
+<br />
+
+<hr>
 <hr>
 
 ## 2D Forced Diffusion
@@ -95,6 +103,9 @@ https://github.com/vduruiss/SROpNet/assets/81578633/cc75d200-7e42-468d-9421-a193
 
 
 <br />
+<br />
+
+<hr>
 <hr>
 
 ## 2D Kolmogorov Flow
