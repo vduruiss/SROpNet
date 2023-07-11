@@ -13,6 +13,8 @@ This repository provides animated versions of the results presented in our paper
    Valentin Duruisseaux, and Amit Chakraborty, 2023.
 
 
+<br />
+
 <hr>
 
 # Table of Contents
