@@ -70,11 +70,25 @@ https://github.com/vduruiss/SROpNet/assets/81578633/4c5992f7-825e-4d84-a07a-9554
 
 ## 2D Forced Diffusion
 
-..................
+
+https://github.com/vduruiss/SROpNet/assets/81578633/08fc1acf-4b42-408f-b8f6-aa4cafa91918
+
+https://github.com/vduruiss/SROpNet/assets/81578633/cc59e4c0-c4b5-4b16-b2f4-9a0456250cc3
+
+https://github.com/vduruiss/SROpNet/assets/81578633/cc75d200-7e42-468d-9421-a193e7d817fa
+
 
 <br />
 <hr>
 
 ## 2D Kolmogorov Flow
 
-..................
+https://github.com/vduruiss/SROpNet/assets/81578633/80483af3-d4cc-4158-8b5b-66c702738e9f
+
+https://github.com/vduruiss/SROpNet/assets/81578633/02d578a2-5d9a-4b81-8783-ffbf48c90381
+
+https://github.com/vduruiss/SROpNet/assets/81578633/f9238566-337e-4c15-8604-7416b5d34366
+
+https://github.com/vduruiss/SROpNet/assets/81578633/168ab2ce-5a15-4951-a730-59f3b54d0ae3
+
+https://github.com/vduruiss/SROpNet/assets/81578633/d83c1972-16e2-4cec-bafb-8f32e4135028
