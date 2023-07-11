@@ -37,7 +37,7 @@ This repository provides animated versions of the results presented in our paper
 
 ## 2D Diffusion with Fixed Diffusion Constant
 
-Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but different initial states
+Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
 
 https://github.com/vduruiss/SROpNet/assets/81578633/23522000-96fc-4060-b6e5-13cbd9170855
 
@@ -66,7 +66,7 @@ https://github.com/vduruiss/SROpNet/assets/81578633/d1d90e51-25b3-4dba-81fb-07da
 
 ## 2D Diffusion with Varied Diffusion Constant
 
-Here, each data sample corresponds to a solution to the 2D Diffusion equation with a different diffusion constant and different initial states
+Here, each data sample corresponds to a solution to the 2D Diffusion equation with a different diffusion constant and a different initial state
 
 https://github.com/vduruiss/SROpNet/assets/81578633/c682f9b9-8351-4a20-b979-c492c46eca6f
 
@@ -93,7 +93,7 @@ https://github.com/vduruiss/SROpNet/assets/81578633/4c5992f7-825e-4d84-a07a-9554
 
 ## 2D Forced Diffusion
 
-Here, each data sample corresponds to a solution to the 2D Forced Diffusion equation with a different diffusion forcing term and different initial states
+Here, each data sample corresponds to a solution to the 2D Forced Diffusion equation with a different diffusion forcing term and a different initial state
 
 https://github.com/vduruiss/SROpNet/assets/81578633/08fc1acf-4b42-408f-b8f6-aa4cafa91918
 
@@ -115,7 +115,7 @@ We now consider the 2D Navier-Stokes equations in vorticity form for a viscous i
 
 <br />
 
-We first consider the case where all the data samples correspond to the same Reynolds number Re = 20, but different initial states
+We first consider the case where all the data samples correspond to the same Reynolds number Re = 20, but with different initial states
 
 https://github.com/vduruiss/SROpNet/assets/81578633/80483af3-d4cc-4158-8b5b-66c702738e9f
 
@@ -123,7 +123,7 @@ https://github.com/vduruiss/SROpNet/assets/81578633/02d578a2-5d9a-4b81-8783-ffbf
 
 <br />
 
-Next, we consider the case where each data samples corresponds to a different Reynolds number in [200,500] with different initial states
+Next, we consider the case where each data samples corresponds to a different Reynolds number in [200,500] with a different initial state
 
 https://github.com/vduruiss/SROpNet/assets/81578633/f9238566-337e-4c15-8604-7416b5d34366
 
