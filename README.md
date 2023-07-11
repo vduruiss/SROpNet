@@ -17,10 +17,16 @@ This repository provides animated versions of the results presented in our paper
 
 # Table of Contents
 
-*  [**Simple MATLAB Codes**](#simple-matlab-codes)
+*  [**2D Diffusion with Fixed Diffusion Constant**](#2d-diffusion-with-fixed-diffusion-constant)
 
-*  [**Simple Julia Codes**](#simple-julia-codes)
+*  [**2D Diffusion with Varied Diffusion Constant**](#2d-diffusion-with-varied-diffusion-constant)
 
+*  [**2D Forced Diffusion**](#2d-forced-diffusion)
+ 
+*  [**2D Kolmogorov Flow**](#2d-kolmogorov-flow)
+
+
+<br />
 
 <hr>
 
@@ -28,21 +34,23 @@ This repository provides animated versions of the results presented in our paper
 
 ..................
 
+<br />
 
 <hr>
+
 
 ## 2D Diffusion with Varied Diffusion Constant
 
 ..................
 
-
+<br />
 <hr>
 
 ## 2D Forced Diffusion
 
 ..................
 
-
+<br />
 <hr>
 
 ## 2D Kolmogorov Flow
