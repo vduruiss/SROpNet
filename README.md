@@ -104,11 +104,15 @@ We now consider the 2D Navier-Stokes equations in vorticity form for a viscous i
 
 <br />
 
-We first consider the case where all the data samples correspond to the same Reynolds number Re = 20
+We first consider the case where all the data samples correspond to the same Reynolds number Re = 20, but different initial states
 
 https://github.com/vduruiss/SROpNet/assets/81578633/80483af3-d4cc-4158-8b5b-66c702738e9f
 
 https://github.com/vduruiss/SROpNet/assets/81578633/02d578a2-5d9a-4b81-8783-ffbf48c90381
+
+<br />
+
+Next, we consider the case where each data samples corresponds to a different Reynolds number in [200,500] with different initial states
 
 https://github.com/vduruiss/SROpNet/assets/81578633/f9238566-337e-4c15-8604-7416b5d34366
 
