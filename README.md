@@ -78,9 +78,7 @@ Here, each data sample corresponds to a solution to a Forced 1D Diffusion equati
 
 ## 1D Diffusion with Parametric Forcing and Varied Sensor and Prediction Locations
 
-We now consider a dataset where each data sample corresponds to a solution to the Forced 1D Diffusion equation with a different forcing term.
-
-In addition, we sample randomly the locations of the low-resolution sensor locations and high-resolution prediction locations, as shown in the example below
+We now consider a dataset where each data sample corresponds to a solution to the Forced 1D Diffusion equation with a different forcing term. In addition, we sample randomly the locations of the low-resolution sensor locations and high-resolution prediction locations, as shown in the example below
 
 ![1D_Experiment3_Locations](https://github.com/vduruiss/SROpNet/assets/81578633/dedb62ae-7ae8-4479-8423-9db1aa9bc0d2)
 
@@ -94,9 +92,7 @@ We compare our results with those obtained using cubic interpolation
 
 
 <br />
-
 <br />
-
 <hr>
 <hr>
 
@@ -114,7 +110,7 @@ https://github.com/vduruiss/SROpNet/assets/81578633/8586c554-2cd5-4aa3-b6ad-9889
 
 <br />
 
-Here is one more example with the low-resolution numerical solution
+Here is one more example with the low-resolution numerical solution counterpart
 
 https://github.com/vduruiss/SROpNet/assets/81578633/35790274-44b8-4519-b677-e0f7cf1c9c0d
 
@@ -124,7 +120,6 @@ https://github.com/vduruiss/SROpNet/assets/81578633/d1d90e51-25b3-4dba-81fb-07da
 
 <br />
 <br />
-
 <hr>
 <hr>
 
@@ -150,9 +145,14 @@ https://github.com/vduruiss/SROpNet/assets/81578633/6f2acf0c-9ec5-4386-a30a-1728
 
 https://github.com/vduruiss/SROpNet/assets/81578633/4c5992f7-825e-4d84-a07a-9554c3ca8ee3
 
-<br />
-<br />
 
+
+
+
+
+
+<br />
+<br />
 <hr>
 <hr>
 
@@ -167,9 +167,11 @@ https://github.com/vduruiss/SROpNet/assets/81578633/cc59e4c0-c4b5-4b16-b2f4-9a04
 https://github.com/vduruiss/SROpNet/assets/81578633/cc75d200-7e42-468d-9421-a193e7d817fa
 
 
-<br />
-<br />
 
+
+
+<br />
+<br />
 <hr>
 <hr>
 
