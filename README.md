@@ -85,6 +85,7 @@ https://github.com/vduruiss/SROpNet/assets/81578633/4c5992f7-825e-4d84-a07a-9554
 
 ## 2D Forced Diffusion
 
+Here, each data sample corresponds to a solution to the 2D Forced Diffusion equation with a different diffusion forcing term and different initial states
 
 https://github.com/vduruiss/SROpNet/assets/81578633/08fc1acf-4b42-408f-b8f6-aa4cafa91918
 
@@ -97,6 +98,13 @@ https://github.com/vduruiss/SROpNet/assets/81578633/cc75d200-7e42-468d-9421-a193
 <hr>
 
 ## 2D Kolmogorov Flow
+
+We now consider the 2D Navier-Stokes equations in vorticity form for a viscous incompressible fluid.
+
+
+<br />
+
+We first consider the case where all the data samples correspond to the same Reynolds number Re = 20
 
 https://github.com/vduruiss/SROpNet/assets/81578633/80483af3-d4cc-4158-8b5b-66c702738e9f
 
