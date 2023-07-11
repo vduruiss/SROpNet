@@ -13,8 +13,9 @@ This repository provides animated versions of the results presented in our paper
    Valentin Duruisseaux and Amit Chakraborty, 2023.
 
 
-<br />
 
+
+<br />
 <hr>
 
 # Table of Contents
@@ -35,10 +36,12 @@ This repository provides animated versions of the results presented in our paper
 
 
 
-<br />
+
+
+
 
 <br />
-
+<br />
 <hr>
 <hr>
 
@@ -50,10 +53,11 @@ Here, each data sample corresponds to a solution to a Forced 1D Diffusion equati
 
 
 
-<br />
+
+
 
 <br />
-
+<br />
 <hr>
 <hr>
 
@@ -68,16 +72,13 @@ Here, each data sample corresponds to a solution to a Forced 1D Diffusion equati
 
 
 <br />
-
 <br />
-
 <hr>
 <hr>
 
 ## 1D Diffusion with Parametric Forcing and Varied Sensor and Prediction Locations
 
 We now consider a dataset where each data sample corresponds to a solution to the Forced 1D Diffusion equation with a different forcing term.
-
 
 In addition, we sample randomly the locations of the low-resolution sensor locations and high-resolution prediction locations, as shown in the example below
 
