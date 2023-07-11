@@ -44,7 +44,7 @@ This repository provides animated versions of the results presented in our paper
 
 ## 1D Diffusion with Parametric Forcing
 
-Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
+Here, each data sample corresponds to a solution to a Forced 1D Diffusion equation with a different forcing term
 
 ![Diff1D_Exp1](https://github.com/vduruiss/SROpNet/assets/81578633/2ba1fc1d-adbd-4175-bef2-a5566e987451)
 
@@ -59,8 +59,7 @@ Here, every data sample corresponds to a solution to the 2D Diffusion equation w
 
 ## 1D Diffusion with Forcing and Varied Initial Conditions
 
-Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
-
+Here, each data sample corresponds to a solution to a Forced 1D Diffusion equation with a different initial state
 
 ![Diff1D_Exp2](https://github.com/vduruiss/SROpNet/assets/81578633/0ffaf56b-5c87-4db2-a84a-af0c2a24526e)
 
@@ -77,9 +76,15 @@ Here, every data sample corresponds to a solution to the 2D Diffusion equation w
 
 ## 1D Diffusion with Parametric Forcing and Varied Sensor and Prediction Locations
 
-Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
+We now consider a dataset where each data sample corresponds to a solution to the Forced 1D Diffusion equation with a different forcing term.
+
+
+In addition, we sample randomly the locations of the low-resolution sensor locations and high-resolution prediction locations, as shown in the example below
 
 ![1D_Experiment3_Locations](https://github.com/vduruiss/SROpNet/assets/81578633/dedb62ae-7ae8-4479-8423-9db1aa9bc0d2)
+
+
+We compare our results with those obtained using cubic interpolation
 
 ![1D_Experiment3_Results](https://github.com/vduruiss/SROpNet/assets/81578633/f902c045-fb39-469a-8a8c-6674154a820e)
 
