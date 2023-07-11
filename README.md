@@ -19,6 +19,12 @@ This repository provides animated versions of the results presented in our paper
 
 # Table of Contents
 
+*  [**1D Diffusion with Parametric Forcing**](#1d-diffusion-with-parametric-forcing)
+
+*  [**Forced 1D Diffusion with Varied Initial Conditions**](#forced-1d-diffusion-with-varied-initial-conditions)
+
+*  [**1D Diffusion with Parametric Forcing and Varied Sensor and Prediction Locations**](#1d-diffusion-with-parametric-forcing-and-varied-sensor-and-prediction-locations)
+  
 *  [**2D Diffusion with Fixed Diffusion Constant**](#2d-diffusion-with-fixed-diffusion-constant)
 
 *  [**2D Diffusion with Varied Diffusion Constant**](#2d-diffusion-with-varied-diffusion-constant)
@@ -26,6 +32,59 @@ This repository provides animated versions of the results presented in our paper
 *  [**2D Forced Diffusion**](#2d-forced-diffusion)
  
 *  [**2D Kolmogorov Flow**](#2d-kolmogorov-flow)
+
+
+
+<br />
+
+<br />
+
+<hr>
+<hr>
+
+## 1D Diffusion with Parametric Forcing
+
+Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
+
+![Diff1D_Exp1](https://github.com/vduruiss/SROpNet/assets/81578633/2ba1fc1d-adbd-4175-bef2-a5566e987451)
+
+
+
+<br />
+
+<br />
+
+<hr>
+<hr>
+
+## Forced 1D Diffusion with Varied Initial Conditions
+
+Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
+
+
+![Diff1D_Exp2](https://github.com/vduruiss/SROpNet/assets/81578633/0ffaf56b-5c87-4db2-a84a-af0c2a24526e)
+
+
+
+
+
+<br />
+
+<br />
+
+<hr>
+<hr>
+
+## 1D Diffusion with Parametric Forcing and Varied Sensor and Prediction Locations
+
+Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
+
+![1D_Experiment3_Locations](https://github.com/vduruiss/SROpNet/assets/81578633/dedb62ae-7ae8-4479-8423-9db1aa9bc0d2)
+
+![1D_Experiment3_Results](https://github.com/vduruiss/SROpNet/assets/81578633/f902c045-fb39-469a-8a8c-6674154a820e)
+
+
+
 
 
 <br />
