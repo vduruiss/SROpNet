@@ -61,12 +61,18 @@ https://github.com/vduruiss/SROpNet/assets/81578633/d1d90e51-25b3-4dba-81fb-07da
 
 ## 2D Diffusion with Varied Diffusion Constant
 
+Here, each data sample corresponds to a solution to the 2D Diffusion equation with a different diffusion constant and different initial states
 
 https://github.com/vduruiss/SROpNet/assets/81578633/c682f9b9-8351-4a20-b979-c492c46eca6f
 
 https://github.com/vduruiss/SROpNet/assets/81578633/05f4dfbd-c086-4d90-9749-9c5d169343b5
 
 https://github.com/vduruiss/SROpNet/assets/81578633/c5e2cfdc-b5ee-4e71-9e0a-e6a573aec3b0
+
+
+<br />
+
+We also tested our approach on diffusion dynamics with larger diffusion constants outside the interval of diffusion constants experienced during training. We compare our results against a similar operator learning architecture which only takes the high-resolution initial state and the prediction locations as inputs.
 
 https://github.com/vduruiss/SROpNet/assets/81578633/f31566b7-515b-4509-957c-930225754e5c
 
