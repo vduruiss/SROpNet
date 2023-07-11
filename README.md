@@ -46,7 +46,7 @@ https://github.com/vduruiss/SROpNet/assets/81578633/8586c554-2cd5-4aa3-b6ad-9889
 
 <br />
 
-Here is one more example with the low-resolution solution
+Here is one more example with the low-resolution numerical solution
 
 https://github.com/vduruiss/SROpNet/assets/81578633/35790274-44b8-4519-b677-e0f7cf1c9c0d
 
