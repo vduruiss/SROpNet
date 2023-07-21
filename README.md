@@ -49,8 +49,6 @@ This repository provides animated versions of the results presented in our paper
 
 Here, each data sample corresponds to a solution to a Forced 1D Diffusion equation with a different forcing term
 
-![Diff1D_Exp1](https://github.com/vduruiss/SROpNet/assets/81578633/f9a59bf6-821f-4dfb-bd32-7abf8ad3ad8c)
-
 
 <br />
 <br />
