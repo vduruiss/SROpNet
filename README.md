@@ -47,7 +47,7 @@ This repository provides animated versions of the results presented in our paper
 
 ## 1D Diffusion with Parametric Forcing
 
-Here, each data sample corresponds to a solution to a Forced 1D Diffusion equation with a different forcing term
+Here, each data sample corresponds to a solution to a Forced 1D Diffusion equation with a different forcing term.
 
 ![Diff1D_Exp1](https://github.com/vduruiss/SROpNet/assets/81578633/aeba328e-c435-4ae7-ad8a-3f10fc2031a0)
 
@@ -59,7 +59,7 @@ Here, each data sample corresponds to a solution to a Forced 1D Diffusion equati
 
 ## 1D Diffusion with Forcing and Varied Initial Conditions
 
-Here, each data sample corresponds to a solution to a Forced 1D Diffusion equation with a different initial state
+Here, each data sample corresponds to a solution to a Forced 1D Diffusion equation with a different initial state. We learn the dynamics with different SROpNets, using different existing super-resolution approaches as part of architecture.
 
 ![Diff1D_Exp2](https://github.com/vduruiss/SROpNet/assets/81578633/0ffaf56b-5c87-4db2-a84a-af0c2a24526e)
 
