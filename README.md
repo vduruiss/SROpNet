@@ -186,7 +186,14 @@ https://github.com/vduruiss/SROpNet/assets/81578633/02d578a2-5d9a-4b81-8783-ffbf
 
 <br />
 
-Next, we consider the case where each data samples corresponds to a different Reynolds number in [200,500] with a different initial state
+Next, we consider the same dataset but only use the first half of the low-resolution simulationas input of the branch network.
+
+
+
+
+<br />
+
+Finally, we consider the case where each data samples corresponds to a different Reynolds number in [200,500] with a different initial state
 
 https://github.com/vduruiss/SROpNet/assets/81578633/f9238566-337e-4c15-8604-7416b5d34366
 
