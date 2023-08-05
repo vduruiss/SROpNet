@@ -106,6 +106,8 @@ https://github.com/vduruiss/SROpNet/assets/81578633/8586c554-2cd5-4aa3-b6ad-9889
 
 <br />
 
+<br />
+
 Here is one more example with the low-resolution numerical solution counterpart
 
 https://github.com/vduruiss/SROpNet/assets/81578633/35790274-44b8-4519-b677-e0f7cf1c9c0d
@@ -130,6 +132,8 @@ https://github.com/vduruiss/SROpNet/assets/81578633/05f4dfbd-c086-4d90-9749-9c5d
 
 https://github.com/vduruiss/SROpNet/assets/81578633/c5e2cfdc-b5ee-4e71-9e0a-e6a573aec3b0
 
+
+<br />
 
 <br />
 
@@ -186,12 +190,16 @@ https://github.com/vduruiss/SROpNet/assets/81578633/02d578a2-5d9a-4b81-8783-ffbf
 
 <br />
 
+<br />
+
 Next, we consider the same dataset but only use the first half of the low-resolution simulationas input of the branch network.
 
 https://github.com/vduruiss/SROpNet/assets/81578633/507fe933-210e-41f8-9755-957c95f005ed
 
 https://github.com/vduruiss/SROpNet/assets/81578633/d7ee09c5-c319-4618-8b43-7a160604d8a4
 
+
+<br />
 
 <br />
 
