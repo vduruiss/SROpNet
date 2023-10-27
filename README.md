@@ -207,8 +207,9 @@ https://github.com/vduruiss/SROpNet/assets/81578633/2297840a-bc61-4f16-8884-134c
 
 Finally, we consider the case where each data samples corresponds to a different Reynolds number in [200,500] with a different initial state
 
-https://github.com/vduruiss/SROpNet/assets/81578633/f9238566-337e-4c15-8604-7416b5d34366
+https://github.com/vduruiss/SROpNet/assets/81578633/7fb671fe-7019-4dd7-b673-bc489d43702e
 
-https://github.com/vduruiss/SROpNet/assets/81578633/168ab2ce-5a15-4951-a730-59f3b54d0ae3
+https://github.com/vduruiss/SROpNet/assets/81578633/6a4797a0-82e2-4eae-88c4-977fb780ad21
 
-https://github.com/vduruiss/SROpNet/assets/81578633/d83c1972-16e2-4cec-bafb-8f32e4135028
+https://github.com/vduruiss/SROpNet/assets/81578633/ccc80b6b-27b1-497d-b0a4-1d5edcbf44a6
+
