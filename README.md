@@ -195,9 +195,10 @@ https://github.com/vduruiss/SROpNet/assets/81578633/9520a96c-5938-4e17-93b7-997e
 
 Next, we consider the same dataset but only use the first half of the low-resolution simulationas input of the branch network.
 
-https://github.com/vduruiss/SROpNet/assets/81578633/507fe933-210e-41f8-9755-957c95f005ed
 
-https://github.com/vduruiss/SROpNet/assets/81578633/d7ee09c5-c319-4618-8b43-7a160604d8a4
+https://github.com/vduruiss/SROpNet/assets/81578633/79f62fdc-4eaa-490e-95a6-951f08d956ca
+
+https://github.com/vduruiss/SROpNet/assets/81578633/2297840a-bc61-4f16-8884-134ccaf8bc61
 
 
 <br />
