@@ -1,4 +1,4 @@
-# SROpNet - An Operator Learning Framework for Mesh-Free Spatiotemporal Super-Resolution
+# SROpNet - An Operator Learning Framework for Spatiotemporal Super-Resolution of Scientific Simulations
 
 **Authors: [Valentin Duruisseaux](https://sites.google.com/view/valduruisseaux) and Amit Chakraborty**
 
@@ -8,7 +8,7 @@
 This repository provides animated versions of the results presented in our paper
 
 
-   [**An Operator Learning Framework for Mesh-Free Spatiotemporal Super-Resolution.**](https://arxiv.org/abs/2210.05087)
+   [**An Operator Learning Framework for Spatiotemporal Super-Resolution of Scientific Simulations.**](https://arxiv.org/abs/2210.05087)
 <br />
    [Valentin Duruisseaux](https://sites.google.com/view/valduruisseaux) and Amit Chakraborty, 2023.
 
