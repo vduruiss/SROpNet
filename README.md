@@ -95,13 +95,11 @@ We compare our results with those obtained using cubic interpolation
 
 Here, every data sample corresponds to a solution to the 2D Diffusion equation with the same diffusion constant, but with different initial states
 
-https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diffusion2D_Exp1_1.mp4
+[Diffusion2D_Exp1_1](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diffusion2D_Exp1_1.mp4)
 
-https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diffusion2D_Exp1_2.mp4
+[Diffusion2D_Exp1_2](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diffusion2D_Exp1_2.mp4)
 
-https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diffusion2D_Exp1_3.mp4
-
-
+[Diffusion2D_Exp1_3](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diffusion2D_Exp1_3.mp4)
 
 <br />
 
@@ -109,10 +107,9 @@ https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diff
 
 Here is one more example with the low-resolution numerical solution counterpart
 
-https://github.com/vduruiss/SROpNet/assets/81578633/35790274-44b8-4519-b677-e0f7cf1c9c0d
+[Diffusion2D_Exp1_4_LR](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diffusion2D_Exp1_4_LR.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/d1d90e51-25b3-4dba-81fb-07da6b8a1c62
-
+[Diffusion2D_Exp1_4](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Fixed_Diff_Const/Diffusion2D_Exp1_4.mp4)
 
 
 <br />
@@ -125,11 +122,12 @@ https://github.com/vduruiss/SROpNet/assets/81578633/d1d90e51-25b3-4dba-81fb-07da
 
 Here, each data sample corresponds to a solution to the 2D Diffusion equation with a different diffusion constant and a different initial state
 
-https://github.com/vduruiss/SROpNet/assets/81578633/c682f9b9-8351-4a20-b979-c492c46eca6f
+[Diffusion2D_Speeds_1](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Varied_Diff_Const/Diffusion2D_Speeds_1.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/05f4dfbd-c086-4d90-9749-9c5d169343b5
+[Diffusion2D_Speeds_2](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Varied_Diff_Const/Diffusion2D_Speeds_2.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/c5e2cfdc-b5ee-4e71-9e0a-e6a573aec3b0
+[Diffusion2D_Speeds_3](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Varied_Diff_Const/Diffusion2D_Speeds_3.mp4)
+
 
 
 <br />
@@ -138,16 +136,11 @@ https://github.com/vduruiss/SROpNet/assets/81578633/c5e2cfdc-b5ee-4e71-9e0a-e6a5
 
 We also tested our approach on diffusion dynamics with larger diffusion constants outside the interval of diffusion constants experienced during training. We compare our results against a similar operator learning architecture which only takes the high-resolution initial state and the prediction locations as inputs.
 
-https://github.com/vduruiss/SROpNet/assets/81578633/f31566b7-515b-4509-957c-930225754e5c
+[Diffusion2D_Speeds_Compare_1](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Varied_Diff_Const/Diffusion2D_Speeds_Compare_1.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/6f2acf0c-9ec5-4386-a30a-1728f5dbc7a0
+[Diffusion2D_Speeds_Compare_2](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Varied_Diff_Const/Diffusion2D_Speeds_Compare_2.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/4c5992f7-825e-4d84-a07a-9554c3ca8ee3
-
-
-
-
-
+[Diffusion2D_Speeds_Compare_3](https://github.com/vduruiss/SROpNet/blob/main/2D_Diffusion_Varied_Diff_Const/Diffusion2D_Speeds_Compare_3.mp4)
 
 
 <br />
@@ -159,13 +152,11 @@ https://github.com/vduruiss/SROpNet/assets/81578633/4c5992f7-825e-4d84-a07a-9554
 
 Here, each data sample corresponds to a solution to the 2D Forced Diffusion equation with a different diffusion forcing term and a different initial state
 
-https://github.com/vduruiss/SROpNet/assets/81578633/08fc1acf-4b42-408f-b8f6-aa4cafa91918
+[ForcedDiffusion2D_1](https://github.com/vduruiss/SROpNet/blob/main/2D_Forced_Diffusion/ForcedDiffusion2D_1.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/cc59e4c0-c4b5-4b16-b2f4-9a0456250cc3
+[ForcedDiffusion2D_2](https://github.com/vduruiss/SROpNet/blob/main/2D_Forced_Diffusion/ForcedDiffusion2D_2.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/cc75d200-7e42-468d-9421-a193e7d817fa
-
-
+[ForcedDiffusion2D_3](https://github.com/vduruiss/SROpNet/blob/main/2D_Forced_Diffusion/ForcedDiffusion2D_3.mp4)
 
 
 
@@ -183,10 +174,10 @@ We now consider the 2D Navier-Stokes equations in vorticity form for a viscous i
 
 We first consider the case where all the data samples correspond to the same Reynolds number Re = 20, but with different initial states
 
+[Kolmogorov_Re20_Ex1](https://github.com/vduruiss/SROpNet/blob/main/2D_Kolmogorov_Flow/Kolmogorov_Re20_Ex1.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/97643adc-58a9-4d90-af9b-05ad3a98a201
+[Kolmogorov_Re20_Ex2](https://github.com/vduruiss/SROpNet/blob/main/2D_Kolmogorov_Flow/Kolmogorov_Re20_Ex2.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/9520a96c-5938-4e17-93b7-997e40afcc10
 
 <br />
 
@@ -195,9 +186,9 @@ https://github.com/vduruiss/SROpNet/assets/81578633/9520a96c-5938-4e17-93b7-997e
 Next, we consider the same dataset but only use the first half of the low-resolution simulationas input of the branch network.
 
 
-https://github.com/vduruiss/SROpNet/assets/81578633/79f62fdc-4eaa-490e-95a6-951f08d956ca
+[Kolmogorov_Re20_Partial_Ex1](https://github.com/vduruiss/SROpNet/blob/main/2D_Kolmogorov_Flow/Kolmogorov_Re20_Partial_Ex1.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/2297840a-bc61-4f16-8884-134ccaf8bc61
+[Kolmogorov_Re20_Partial_Ex2](https://github.com/vduruiss/SROpNet/blob/main/2D_Kolmogorov_Flow/Kolmogorov_Re20_Partial_Ex2.mp4)
 
 
 <br />
@@ -206,9 +197,8 @@ https://github.com/vduruiss/SROpNet/assets/81578633/2297840a-bc61-4f16-8884-134c
 
 Finally, we consider the case where each data samples corresponds to a different Reynolds number in [200,500] with a different initial state
 
-https://github.com/vduruiss/SROpNet/assets/81578633/7fb671fe-7019-4dd7-b673-bc489d43702e
+[Kolmogorov_MixedRe_Ex1](https://github.com/vduruiss/SROpNet/blob/main/2D_Kolmogorov_Flow/Kolmogorov_MixedRe_Ex1.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/6a4797a0-82e2-4eae-88c4-977fb780ad21
+[Kolmogorov_MixedRe_Ex2](https://github.com/vduruiss/SROpNet/blob/main/2D_Kolmogorov_Flow/Kolmogorov_MixedRe_Ex2.mp4)
 
-https://github.com/vduruiss/SROpNet/assets/81578633/ccc80b6b-27b1-497d-b0a4-1d5edcbf44a6
-
+[Kolmogorov_MixedRe_Ex3](https://github.com/vduruiss/SROpNet/blob/main/2D_Kolmogorov_Flow/Kolmogorov_MixedRe_Ex3.mp4)
